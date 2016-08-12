@@ -3,12 +3,11 @@
 pyWrite is just a nifty O.C.R. tool created with the magic of python and tensorflow!
 ### Installation
 
-pyWrite just requires the following packages-
+pyWrite just requires the following packages, so open up a terminal and do-
 ```sh
-numpy
-cv2
-scipy
-tensorflow
+pip install numpy
+pip install scipy
+pip install tensorflow
 ```
 ### Instructions
 As of now, do the following - 
@@ -27,8 +26,9 @@ and Voila! your digitized image is saved in the 'pro-img' folder!
 
 ### Bonus Time! - Screenshots!
 
+# Coming Soon.. :(
 
-### Todos
+### TODOs
 
  - Remove the hacky solution in init.py
  - Combine the init.py and learn.py
